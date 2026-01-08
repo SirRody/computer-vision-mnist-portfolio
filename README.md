@@ -1,7 +1,20 @@
 # Computer Vision: MNIST Digit Recognition Portfolio
 
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
+
 ## 🎯 Project Overview
 This portfolio demonstrates the complete evolution of computer vision techniques through the classic MNIST digit recognition challenge. Starting with basic machine learning and progressing to sophisticated deep learning models, this project showcases how different approaches solve the same visual pattern recognition problem.
+
+## 🎮 Quick Demo
+
+[![Open Demo](https://img.shields.io/badge/🎮-Open_Interactive_Demo-blue)](demo.ipynb)
+
+*Click the blue button above to see the live demo!*
 
 ## 📁 Project Structure
 
