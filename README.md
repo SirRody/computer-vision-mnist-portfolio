@@ -7,6 +7,20 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
 
+## 🚀 Live Demo
+
+The model is deployed as a live web application on Hugging Face Spaces:
+
+[![Live Demo](https://img.shields.io/badge/🤗-Try%20the%20Live%20Demo-blue)](https://huggingface.co/spaces/SirRody/mnist-digit-recognition)
+
+**Features:**
+- 📤 Upload images with two handwritten digits
+- 🔢 Real-time predictions for both digits
+- 📊 Confidence scores for each prediction
+- 🖼️ Automatic image preprocessing
+
+**Try it now:** [https://huggingface.co/spaces/SirRody/mnist-digit-recognition](https://huggingface.co/spaces/SirRody/mnist-digit-recognition)
+
 ## 🎯 Project Overview
 This portfolio demonstrates the complete evolution of computer vision techniques through the classic MNIST digit recognition challenge. Starting with basic machine learning and progressing to sophisticated deep learning models, this project showcases how different approaches solve the same visual pattern recognition problem.
 
